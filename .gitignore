@@ -10,7 +10,12 @@ migrations/
 venv/
 env/
 profile/
-
+keys/
+ca_module/*.pem
+ca_module/*.key
+csr_module/*.pem
+csr_module/*.key
+teachers_certificates/
 *.db
 *.sqlite3
 db.sqlite3
