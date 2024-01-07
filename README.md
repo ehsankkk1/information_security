@@ -36,6 +36,6 @@ CONTRIBUTORS:
 
 [Rita Rezeq](https://github.com/RitaRezeq)
 
-khaled sawan
+[Khaled sawan](https://github.com/khaledsawan)
 
 Radwan Hbobati
